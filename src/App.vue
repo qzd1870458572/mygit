@@ -4,7 +4,7 @@
     <!--<h1 class="aa">欢迎:{{msg}} </h1>-->
     <!--阿西吧 么么哒-->
     <!--  用来展示路由组建    -->
-    <a href="#/">主页111111111</a>
+    <a href="#/">主页</a>
     <a href="#/user">用户模块</a>
     <a href="#/student">学生模块</a>
     <router-view/>
